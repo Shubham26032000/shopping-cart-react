@@ -1,0 +1,10 @@
+{
+  "wsproducts": [
+    { "id": 1, "name": "Wireless Headphones", "price": 59.99, "instock": true },
+    { "id": 2, "name": "USB-C Charger", "price": 24.5, "instock": true },
+    { "id": 3, "name": "Bluetooth Speaker", "price": 39.99, "instock": false }
+  ]
+}
+
+
+
